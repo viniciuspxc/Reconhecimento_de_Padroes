@@ -1,6 +1,7 @@
 gd/
 sgd/
 Data/
+kmeans/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
